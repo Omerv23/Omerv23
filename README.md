@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ömer
+- 👀 I’m at the beginnig of my programming journey
+- 🌱 I’m currently learning at Kodluyoruz.
